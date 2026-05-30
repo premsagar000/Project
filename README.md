@@ -1,3 +1,3 @@
 # Project
 first Git repository
-author - Prem Sagar
+author - Noob
